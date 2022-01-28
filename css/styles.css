@@ -1,56 +1,47 @@
-/* Universal Selector */
+.backgroundcolor {
+  background-color:rgb(182, 182, 182)
+}
 
-* {
-    background-color: lightblue;
-    cursor: url(../images/cursor.png), pointer;
+.titles {
+  text-align: center;
+  font-family: Arial;
+  color:black;
+  background-color:#ffffff;
+} 
+
+.funfact {
+  text-align: center;
+  font-size: 18px;
+  font-family: Arial;
+  background-color:white;
+}
+
+.photo {
+  text-align: center;
+}
+
+.projects {
+  text-align: left;
+  font-size: 16px;
+  font-family: Arial;
+  background-color:white;
+}
+
+.info1 {
+  text-align: center;
+  font-size: 16px;
+  font-family: Arial;
+  background-color:white;
+}
+
+.contact {
+  text-align: center;
+  font-size: 14px;
+  font-family: Arial;
+  background-color:white;
 }
 
 
-/* Attribute Selector */
-
-[src] {
-    display: block;
-    margin: 0 auto;
-    border-radius: 50%;
-}
 
 
-/* Element Selector */
 
-h1,
-h2 {
-    text-align: center;
-}
-
-ul li {
-    font-size: 24px;
-    color: rgb(139, 108, 113);
-    list-style: upper-roman inside;
-    text-align: center;
-}
-
-
-/* Class Selector */
-
-.section-font {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-.about-me {
-    font-family: cursive;
-}
-
-
-/* ID Selector */
-
-#myfav {
-    display: block;
-    margin: 0 auto;
-    width: 50%;
-    padding-top: 1em;
-    padding-bottom: 1em;
-    text-align: center;
-    border-color: rgb(104, 27, 40);
-    border-style: solid;
-    border-width: 5px;
-}
