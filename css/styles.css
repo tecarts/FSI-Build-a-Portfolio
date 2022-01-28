@@ -1,0 +1,47 @@
+.backgroundcolor {
+  background-color:rgb(182, 182, 182)
+}
+
+.titles {
+  text-align: center;
+  font-family: Arial;
+  color:black;
+  background-color:#ffffff;
+} 
+
+.funfact {
+  text-align: center;
+  font-size: 18px;
+  font-family: Arial;
+  background-color:white;
+}
+
+.photo {
+  text-align: center;
+}
+
+.projects {
+  text-align: left;
+  font-size: 16px;
+  font-family: Arial;
+  background-color:white;
+}
+
+.info1 {
+  text-align: center;
+  font-size: 16px;
+  font-family: Arial;
+  background-color:white;
+}
+
+.contact {
+  text-align: center;
+  font-size: 14px;
+  font-family: Arial;
+  background-color:white;
+}
+
+
+
+
+
